@@ -7,17 +7,18 @@
 <img src="https://giphy.com/embed/sULKEgDMX8LcI" width="480" height="225"></img>
 </div>
 
-🔭 I'm working on improving my technical/soft skills
-🧠 I’m currently learning everything I can...
-⚡ difficult things can make us better
-✉️ You can contact me at [jadanov89@gmail.com](mailto:jadanov89@gmail.com)
-
-<p text-align="left">
+<ul>
+<li>🔭 I'm working on improving my technical/soft skills</li>
+<li>🧠 I’m currently learning everything I can...</li>
+<li>⚡ difficult things can make us better</li>
+<li>✉️ You can contact me at [jadanov89@gmail.com](mailto:jadanov89@gmail.com)</li>
+</ul>
+<div text-align="left">
     <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="32" height="32" /></a> 
     <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="32" height="32" /></a> 
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+</div>
 
 ## My stack and tools
 
