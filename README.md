@@ -11,7 +11,9 @@
 <li>🔭 I'm working on improving my technical/soft skills</li>
 <li>🧠 I’m currently learning everything I can...</li>
 <li>⚡ difficult things can make us better</li>
-<li>✉️ You can contact me at [jadanov89@gmail.com](mailto:jadanov89@gmail.com)</li>
+<li>✉️ You can contact me at <a href="mailto:jadanov89@gmail.com">[jadanov89@gmail.com]</a>
+</li>
+
 </ul>
 <div text-align="left">
     <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="32" height="32" /></a> 
